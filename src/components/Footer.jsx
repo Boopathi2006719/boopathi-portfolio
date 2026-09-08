@@ -1,0 +1,13 @@
+function Footer() {
+  return (
+    <footer className="footer">
+
+      <p>
+        © 2026 Boopathi K. All rights reserved.
+      </p>
+
+    </footer>
+  );
+}
+
+export default Footer;
